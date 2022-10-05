@@ -1,0 +1,10 @@
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\bin\Debug\WOTD.exe.config
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\bin\Debug\WOTD.exe
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\bin\Debug\WOTD.pdb
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.csproj.AssemblyReference.cache
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.Form1.resources
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.Properties.Resources.resources
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.csproj.GenerateResource.cache
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.csproj.CoreCompileInputs.cache
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.exe
+C:\Users\Kaga\Desktop\Projects\WOTD\WOTD\obj\Debug\WOTD.pdb
