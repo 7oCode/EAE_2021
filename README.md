@@ -1,6 +1,6 @@
 # EAE_2021
 
-This is where my project for EAE 2021
+This is my project for EAE 2021
 
 It is an application that takes the user's age and gives a random word and its definition
 
